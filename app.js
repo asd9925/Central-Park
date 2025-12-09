@@ -16,9 +16,9 @@ window.addEventListener('load', () => {
 
   //Let's add a marker icon
   let guitarIcon = L.icon({
-    iconUrl: 'guita.png',
+    iconUrl: 'quaver.png',
 
-    iconSize: [28, 28], // size of the icon
+    iconSize: [30, 30], // size of the icon
     // iconAnchor: [22, 90], // point of the icon which will correspond to marker's location
     // popupAnchor: [-7, -90] // point from which the popup should open relative to the iconAnchor
   iconAnchor: [22, 90],
